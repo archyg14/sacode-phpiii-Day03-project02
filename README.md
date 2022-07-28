@@ -1,16 +1,16 @@
 # sacode-phpiii-Day03-project02
 ### belajar tipe data PHP
- ✅ String
- ✅ Integer
- ✅ Float
- ✅ Boolean
- ✅ Array
- ✅ Object
- ✅ Null
+ ✅ String <br>
+ ✅ Integer <br>
+ ✅ Float <br>
+ ✅ Boolean <br>
+ ✅ Array <br>
+ ✅ Object <br>
+ ✅ Null <br>
 
  ### String
 
-'''php
+```php
 <?php
 
     $a = "Hello World";
