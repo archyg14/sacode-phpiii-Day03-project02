@@ -22,11 +22,11 @@
     // echo "<br>";
 
 ?>
-'''
+```
 
  ### Integer
 
-'''php
+```php
 <?php
 
 $x = 23;
@@ -35,22 +35,22 @@ echo "<br>";
 var_dump($x);
 
 ?>
-'''
+```
 
 ### Float
 
-'''php
+```php
 <?php
 $x = 10.134;
 var_dump($x);
 
 
 ?>
-'''
+```
 
 ### Boolean
 
-'''php
+```php
 <?php
     $x = true;
     $y = false;
@@ -58,11 +58,11 @@ var_dump($x);
     var_dump($x);
 
 ?>
-'''
+```
 
 ### Array
 
-'''php
+```php
 <?php
     $student = array('Samuel','Nick','Archy', 'Delvi');
     foreach($student as $s)
@@ -76,11 +76,11 @@ var_dump($x);
 
     echo $kelas[1];
 ?>
-'''
+```
 
 ### Object
 
-'''php
+```php
 <?php
 class Car {
     public $color;
@@ -103,11 +103,11 @@ echo "<br>";
 $myCar = new Car("Red", "Toyota");
 echo $myCar->message();
 ?>
-'''
+```
 
 ### Null
 
-'''php
+```php
 <?php
     $x = 'Hello World';
     $x = null;
@@ -119,4 +119,4 @@ echo $myCar->message();
     $y = null;
     var_dump($y)
 ?>
-'''
+```
